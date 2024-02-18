@@ -13,7 +13,7 @@
 
 #### Step 1: Uncovering Unusual Patterns in Hourly Google Search Traffic 🧐
 
-* First things first, I dug into the hourly Google search data for Mercado Libre, focusing on May 2020 when the company released its quarterly financial results. I spotted some intriguing spikes in search traffic during that period, hinting at possible correlations with significant financial events.
+* First things first, I dug into the hourly Google search data for Mercado Libre, focusing on May 2020 when the company released its quarterly financial results. I spotted some intriguing spikes in search traffic during that period, hinting at possible correlations with significant financial events. I also included a graph to represent hourly search data to plot the average traffic by the day of the week. I thought this would be helpful to my analysis of the data. 
 
 #### Step 2: Delving into Seasonality in Search Traffic Data 📅
 
